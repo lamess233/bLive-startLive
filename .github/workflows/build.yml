@@ -31,3 +31,5 @@ jobs:
           path: |
             startLive.exe
             stopLive.exe
+            config.example.json
+            Readme.txt
